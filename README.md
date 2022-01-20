@@ -1,6 +1,6 @@
 # DSA
 
-All the important code of data structure and algoritrhm will be available here.
+All the important code of data structure and algorithm will be available here.
 
 
 HAPPY CODING !!!
